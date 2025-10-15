@@ -9,6 +9,7 @@ The Toolkit contains modules that will **provision**:
 - [DDN EXAScaler lustre][ddn-exascaler] (Deprecated, removal on July 1, 2025)
 - [Managed Lustre][managed-lustre]
 - [NFS server (non-GCP managed)][nfs-server]
+- [Sycomp Intelligent Data Storage Platform][sycom-scale]
 
 The Toolkit also provides a **[pre-existing-network-storage]** module to work
 with a network storage device that is already set up. The
